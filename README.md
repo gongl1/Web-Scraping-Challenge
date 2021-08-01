@@ -2,6 +2,9 @@
 
 Use mission_to_mars_main.ipynb as the standard which includes all the sections required.
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
 
 # Web Scraping Homework - Mission to Mars
 
